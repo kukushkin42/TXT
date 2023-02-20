@@ -1,0 +1,9 @@
+Terminal
+Postman
+CheckList
+BugReport
+Jmeter
+SQL
+Charles
+DevTools
+Mobile_testing
