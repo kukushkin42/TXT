@@ -1,1 +1,14 @@
-
+1.ID
+2.Summary
+3.Incident Description
+4.Pre-Conditions
+5.Steps to reproduce
+6.Actual result
+7.Expected result
+8.Environment
+9.Build
+10.Attempt to repeat
+11.Impact
+12.Severity
+13.Priority
+14.Attachment
